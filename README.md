@@ -8,7 +8,8 @@
 ---
 
 ## 📫 How to Reach Me
-[LinkedIn](www.linkedin.com/in/francis-gemuel-buot-b638aa286) | [Email](francisgemuelb@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/francis-gemuel-buot-b638aa286) | [Email](mailto:francisgemuelb@gmail.com)
+
 
 ---
 
