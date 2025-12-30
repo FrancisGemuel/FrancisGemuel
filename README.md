@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋, I'm Francis Gemuel
 
-<!--
-**FrancisGemuel/FrancisGemuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Aspiring IT Professional | Master of Ctrl+C, Ctrl+V
 
-Here are some ideas to get you started:
+🎓 Student at Cebu Technological University - Main Campus  
+📍 Cebu, Philippines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 How to Reach Me
+[LinkedIn](www.linkedin.com/in/francis-gemuel-buot-b638aa286) | [Email](francisgemuelb@gmail.com)
+
+---
+
+## 🔧 Skills
+- **Programming:** Python, JavaScript (TypeScript), SQL, NoSQL, HTML, CSS  
+- **Frameworks & Libraries:** React, Django, Node.js, FastAPI, TailwindCSS  
+- **Databases:** PostgreSQL, MySQL, Supabase, MongoDB  
+- **Networking:** VLANs, DHCP, IP Addressing, VoIP setup, Cisco Packet Tracer  
+- **Other:** Hardware/Software troubleshooting, PC assembly, IoT, ML basics
+
