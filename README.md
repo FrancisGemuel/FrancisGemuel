@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Francis Gemuel
 
-⚡ Aspiring IT Professional | Master of Ctrl+C, Ctrl+V
+⚡ IT Professional | Master of Ctrl+C, Ctrl+V
 
 🎓 Student at Cebu Technological University - Main Campus  
 📍 Cebu, Philippines
