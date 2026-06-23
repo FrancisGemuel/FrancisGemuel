@@ -14,7 +14,7 @@
 ---
 
 ## 🔧 Skills
-- **Programming:** Delphi, Python, JavaScript (TypeScript), SQL, HTML, CSS  
+- **Programming:** Delphi, Python, JavaScript, SQL, HTML, CSS  
 - **Frameworks & Libraries:** React, Django, Node.js, FastAPI, TailwindCSS  
 - **Databases:** PostgreSQL, MySQL, Supabase, MongoDB, SSMS  
 
